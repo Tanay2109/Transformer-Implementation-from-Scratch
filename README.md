@@ -1,2 +1,2 @@
-# Transformer-Implementation-from-Scratch
-Implementing the Transformer model with Attention network from scratch using PyTorch
+# Transformer Implementation from Scratch
+This repository contains a PyTorch implementation of the Transformer model with an attention mechanism from scratch, inspired by the research paper "Attention Is All You Need" by Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser and Illia Polosukhin. The architecture is built entirely using self-attention and feed-forward neural networks, eliminating the need for recurrence or convolutions. It features multi-head self-attention layers, positional encoding, and a modular encoder-decoder framework, enabling efficient parallelization and superior performance on sequence-to-sequence tasks such as machine translation.
