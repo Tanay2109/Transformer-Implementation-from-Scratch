@@ -47,6 +47,9 @@ Applications
 - Language Modeling
 - Code Generation
 
+![image](https://github.com/user-attachments/assets/93a8224f-2228-48a3-9307-59e861728883)
+
+
 # ⚙️ Core Functions & Concepts
 
 MultiHeadAttention() – Projects queries, keys, and values into multiple attention heads for richer representations.
